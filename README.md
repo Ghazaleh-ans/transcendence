@@ -99,7 +99,7 @@ When switching from the full stack to development mode, run `make down` first.
 1. Clone the repository and enter its directory:
 
    ```bash
-   git clone https://github.com/LaraKraemer/transcendence.git poolaki
+   git clone https://github.com/LaraKraemer/poolaki.git
    cd poolaki
    ```
 
